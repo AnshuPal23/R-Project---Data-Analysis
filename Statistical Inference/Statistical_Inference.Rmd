@@ -1,7 +1,6 @@
 ---
 title: "Statistical_Inference"
-author: "Me"
-date: "31/08/2020"
+
 output: md_document
 ---
 ## Simulation Exercise 
