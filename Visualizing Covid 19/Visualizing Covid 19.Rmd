@@ -1,7 +1,6 @@
 ---
 title: "Visualizing Covid 19"
-author: "Shambhavi Malik"
-date: "14/09/2020"
+
 output: md_document
 ---
 ## Synopsis: From epidemic to pandemic
