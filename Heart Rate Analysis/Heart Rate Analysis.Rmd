@@ -20,7 +20,7 @@ We noticed that the outcome variable class has more than two levels. According t
 There are a few other categorical/discrete variables in the dataset. We also convert sex into a 'factor' for next step analysis. Otherwise, R will treat this as continuous by default.
 
 The full data dictionary is also displayed here.
-![Data](C:\Users\Shambhavi Malik\Desktop\r coursera\datadict.png)
+
 ```{r}
 # load the tidyverse package
 library(tidyverse)
