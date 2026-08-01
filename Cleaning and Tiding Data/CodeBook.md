@@ -1,7 +1,5 @@
 ---
 title: "CodeBook"
-author: "Me"
-date: "20/07/2020"
 output: pdf_document
 ---
 
