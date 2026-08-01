@@ -1,7 +1,5 @@
 ---
 title: "Personal Activity Monitor"
-author: "Shambhavi Malik"
-date: "05/08/2020"
 output: html_document
 ---
 ## Synopsis
