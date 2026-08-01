@@ -1,7 +1,5 @@
 ---
 title: "Pollution Analysis"
-author: "Shambhavi Malik"
-date: "25/08/2020"
 output: html_document
 ---
 ## Exploring the US Air Pollution dataset
